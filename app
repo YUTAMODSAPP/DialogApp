@@ -11,9 +11,12 @@
   },
   "data": {
     "download_link": "https://whatsapp.com/channel/0029Vb8DC6pE50Ul1WlNdz3P",
-    "toast": "UPDATE TO USE",
+    "toast": "GAS KE SALURAN KAMI",
     "changelog": [
-      "Silahkan tekan tombol update yaa"
+      "1. Membaiki bug ( beberapa divace).",
+      "2. Mengoptimalkan App.",
+      "3. Menambahkan fitur fitur baru.",
+      "MOHON DI UPDATE YA🙌. Terimakasih."
     ]
   },
   "global": {
