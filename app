@@ -3,6 +3,10 @@
     "YutaModz.Yuta": {
       "show_dialog": false,
       "force_redirect": false
+    },
+    "material.dialog": {
+      "show_dialog": true,
+      "force_redirect": true
     }
   },
   "data": {
