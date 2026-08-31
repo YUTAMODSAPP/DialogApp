@@ -1,7 +1,7 @@
 {
   "apps": {
     "YutaModz.Yuta": {
-      "show_dialog": true,
+      "show_dialog": false,
       "force_redirect": true
     }
   },
