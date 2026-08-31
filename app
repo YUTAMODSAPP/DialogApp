@@ -1,16 +1,8 @@
 {
   "apps": {
-    "nady.app.update": {
-      "show_dialog": true,
-      "force_redirect": true
-    },
-    "Com.ex": {
-      "show_dialog": true,
-      "force_redirect": false
-    },
     "YutaModz.Yuta": {
-      "show_dialog": true,
-      "force_redirect": true
+      "show_dialog": false,
+      "force_redirect": false
     }
   },
   "data": {
