@@ -9,7 +9,7 @@
       "force_redirect": false
     },
     "YutaModz.Yuta": {
-      "show_dialog": false,
+      "show_dialog": true,
       "force_redirect": true
     }
   },
