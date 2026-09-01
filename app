@@ -15,7 +15,7 @@
   },
   "data": {
     "download_link": "https://whatsapp.com/channel/0029Vb8DC6pE50Ul1WlNdz3P",
-    "toast": "GAS KE SALURAN KAMI",
+    "toast": "MODDER BY 𝙔𝙐𝙏𝘼MODZ",
     "changelog": [
       "1. Membaiki bug ( beberapa divace).",
       "2. Mengoptimalkan App.",
