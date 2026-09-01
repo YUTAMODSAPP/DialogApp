@@ -13,7 +13,7 @@
       "force_redirect": true
     },
     "com.wahidabd.komikid": {
-      "show_dialog": true,
+      "show_dialog": false,
       "force_redirect": true
     }
   },
