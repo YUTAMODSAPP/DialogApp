@@ -7,6 +7,10 @@
     "material.dialog": {
       "show_dialog": false,
       "force_redirect": false
+    },
+    "ME.khaZ": {
+      "show_dialog": false,
+      "force_redirect": false
     }
   },
   "data": {
