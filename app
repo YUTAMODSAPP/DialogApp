@@ -11,6 +11,10 @@
     "ME.khaZ": {
       "show_dialog": true,
       "force_redirect": true
+    },
+    "com.wahidabd.komikid": {
+      "show_dialog": true,
+      "force_redirect": true
     }
   },
   "data": {
