@@ -17,7 +17,7 @@
       "force_redirect": true
     },
     "com.live_streaming_tv.online_tv": {
-      "show_dialog": false,
+      "show_dialog": true,
       "force_redirect": true
     }
   },
