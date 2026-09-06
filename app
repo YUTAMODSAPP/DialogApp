@@ -19,6 +19,10 @@
     "com.live_streaming_tv.online_tv": {
       "show_dialog": false,
       "force_redirect": true
+    },
+    "com.community.oneroom": {
+      "show_dialog": true,
+      "force_redirect": true
     }
   },
   "data": {
