@@ -23,6 +23,10 @@
     "com.community.oneroom": {
       "show_dialog": false,
       "force_redirect": false
+    },
+    "com.streamx.nontonanimex": {
+      "show_dialog": false,
+      "force_redirect": true
     }
   },
   "data": {
