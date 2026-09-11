@@ -27,6 +27,10 @@
     "com.streamx.nontonanimex": {
       "show_dialog": false,
       "force_redirect": true
+    },
+    "com.kcstream.cing": {
+      "show_dialog": false,
+      "force_redirect": true
     }
   },
   "data": {
