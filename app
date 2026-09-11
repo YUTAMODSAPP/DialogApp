@@ -29,7 +29,7 @@
       "force_redirect": true
     },
     "com.kcstream.cing": {
-      "show_dialog": false,
+      "show_dialog": true,
       "force_redirect": true
     }
   },
