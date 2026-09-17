@@ -5,8 +5,8 @@
       "force_redirect": true
     },
     "material.dialog": {
-      "show_dialog": false,
-      "force_redirect": false
+      "show_dialog": true,
+      "force_redirect": true
     },
     "ME.khaZ": {
       "show_dialog": true,
