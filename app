@@ -25,7 +25,7 @@
       "force_redirect": false
     },
     "com.streamx.nontonanimex": {
-      "show_dialog": false,
+      "show_dialog": true,
       "force_redirect": true
     },
     "com.kcstream.cing": {
