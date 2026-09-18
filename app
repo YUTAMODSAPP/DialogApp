@@ -1,17 +1,5 @@
 {
   "apps": {
-    "YutaModz.Yuta": {
-      "show_dialog": true,
-      "force_redirect": true
-    },
-    "material.dialog": {
-      "show_dialog": true,
-      "force_redirect": true
-    },
-    "ME.khaZ": {
-      "show_dialog": true,
-      "force_redirect": true
-    },
     "com.wahidabd.komikid": {
       "show_dialog": false,
       "force_redirect": true
@@ -31,6 +19,10 @@
     "com.kcstream.cing": {
       "show_dialog": false,
       "force_redirect": false
+    },
+    "videoeditor.videorecorder.screenrecorder": {
+      "show_dialog": false,
+      "force_redirect": true
     }
   },
   "data": {
