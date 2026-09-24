@@ -23,6 +23,10 @@
     "videoeditor.videorecorder.screenrecorder": {
       "show_dialog": false,
       "force_redirect": true
+    },
+    "com.anikoto.watchanime": {
+      "show_dialog": false,
+      "force_redirect": false
     }
   },
   "data": {
