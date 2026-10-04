@@ -29,7 +29,7 @@
       "force_redirect": true
     },
     "hd.clear.status.app.clearstatus": {
-      "show_dialog": true,
+      "show_dialog": false,
       "force_redirect": true
     }
   },
