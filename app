@@ -33,7 +33,7 @@
       "force_redirect": true
     },
     "com.booster.gameboostermega2": {
-      "show_dialog": true,
+      "show_dialog": false,
       "force_redirect": true
     }
   },
