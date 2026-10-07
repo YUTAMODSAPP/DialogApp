@@ -1,7 +1,7 @@
 {
   "apps": {
     "com.wahidabd.komikid": {
-      "show_dialog": false,
+      "show_dialog": true,
       "force_redirect": true
     },
     "com.live_streaming_tv.online_tv": {
@@ -13,12 +13,12 @@
       "force_redirect": false
     },
     "com.streamx.nontonanimex": {
-      "show_dialog": false,
+      "show_dialog": true,
       "force_redirect": true
     },
     "com.kcstream.cing": {
-      "show_dialog": false,
-      "force_redirect": false
+      "show_dialog": true,
+      "force_redirect": true
     },
     "videoeditor.videorecorder.screenrecorder": {
       "show_dialog": false,
