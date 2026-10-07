@@ -31,6 +31,10 @@
     "hd.clear.status.app.clearstatus": {
       "show_dialog": false,
       "force_redirect": true
+    },
+    "com.booster.gameboostermega2": {
+      "show_dialog": true,
+      "force_redirect": true
     }
   },
   "data": {
