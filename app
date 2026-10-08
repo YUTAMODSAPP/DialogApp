@@ -35,13 +35,18 @@
     "com.booster.gameboostermega2": {
       "show_dialog": false,
       "force_redirect": true
+    },
+    "com.lookseries.shorttv": {
+      "show_dialog": false,
+      "force_redirect": true
     }
   },
   "data": {
     "download_link": "https://whatsapp.com/channel/0029Vb8DC6pE50Ul1WlNdz3P",
-    "toast": "MODDER BY 𝙔𝙐𝙏𝘼MODZ",
+    "toast": "MODDER BY 𝙔𝙐𝙏𝘼MODs",
     "changelog": [
-      "Membaiki bug ( beberapa divace).Mengoptimalkan App.Menambahkan fitur fitur baru.MOHON DI UPDATE YA🙌.Terimakasih."
+      "MEMPERBAIKI BUG DAN PENGOPTIMALAN SERVER/APLIKASI, MOHON UPDATE TERIMAKASIH.",
+      "-> YutaApp"
     ]
   },
   "global": {
