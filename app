@@ -25,7 +25,7 @@
       "force_redirect": true
     },
     "com.anikoto.watchanime": {
-      "show_dialog": true,
+      "show_dialog": false,
       "force_redirect": true
     },
     "hd.clear.status.app.clearstatus": {
