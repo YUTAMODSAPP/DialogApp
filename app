@@ -17,8 +17,8 @@
       "force_redirect": true
     },
     "com.kcstream.cing": {
-      "show_dialog": true,
-      "force_redirect": true
+      "show_dialog": false,
+      "force_redirect": false
     },
     "videoeditor.videorecorder.screenrecorder": {
       "show_dialog": false,
