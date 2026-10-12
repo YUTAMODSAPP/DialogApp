@@ -1,7 +1,7 @@
 {
   "apps": {
     "com.wahidabd.komikid": {
-      "show_dialog": true,
+      "show_dialog": false,
       "force_redirect": true
     },
     "com.live_streaming_tv.online_tv": {
