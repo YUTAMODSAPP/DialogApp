@@ -13,8 +13,8 @@
       "force_redirect": false
     },
     "com.streamx.nontonanimex": {
-      "show_dialog": true,
-      "force_redirect": true
+      "show_dialog": false,
+      "force_redirect": false
     },
     "com.kcstream.cing": {
       "show_dialog": false,
