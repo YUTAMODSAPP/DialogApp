@@ -41,7 +41,7 @@
       "force_redirect": true
     },
     "com.hxcorp.anibiplay": {
-      "show_dialog": false,
+      "show_dialog": true,
       "force_redirect": true
     }
   },
