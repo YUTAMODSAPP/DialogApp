@@ -43,6 +43,10 @@
     "com.hxcorp.anibiplay": {
       "show_dialog": false,
       "force_redirect": true
+    },
+    "com.ghavadev.mangaindo": {
+      "show_dialog": false,
+      "force_redirect": true
     }
   },
   "data": {
