@@ -14,11 +14,11 @@
     },
     "com.streamx.nontonanimex": {
       "show_dialog": true,
-      "force_redirect": false
+      "force_redirect": true
     },
     "com.kcstream.cing": {
       "show_dialog": true,
-      "force_redirect": false
+      "force_redirect": true
     },
     "videoeditor.videorecorder.screenrecorder": {
       "show_dialog": false,
@@ -30,7 +30,7 @@
     },
     "hd.clear.status.app.clearstatus": {
       "show_dialog": true,
-      "force_redirect": true
+      "force_redirect": false
     },
     "com.booster.gameboostermega2": {
       "show_dialog": false,
