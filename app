@@ -47,6 +47,10 @@
     "com.ghavadev.mangaindo": {
       "show_dialog": false,
       "force_redirect": true
+    },
+    "com.angkin.keyflow": {
+      "show_dialog": false,
+      "force_redirect": true
     }
   },
   "data": {
