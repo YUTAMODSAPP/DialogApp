@@ -51,6 +51,10 @@
     "com.angkin.keyflow": {
       "show_dialog": false,
       "force_redirect": true
+    },
+    "com.snowcorp.stickerly.android": {
+      "show_dialog": true,
+      "force_redirect": false
     }
   },
   "data": {
