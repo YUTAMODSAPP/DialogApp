@@ -53,7 +53,7 @@
       "force_redirect": true
     },
     "com.snowcorp.stickerly.android": {
-      "show_dialog": true,
+      "show_dialog": false,
       "force_redirect": false
     }
   },
