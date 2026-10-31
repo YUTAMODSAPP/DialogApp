@@ -55,6 +55,10 @@
     "com.snowcorp.stickerly.android": {
       "show_dialog": false,
       "force_redirect": false
+    },
+    "com.customscopecommunity.crosshairpro": {
+      "show_dialog": false,
+      "force_redirect": false
     }
   },
   "data": {
