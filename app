@@ -29,7 +29,7 @@
       "force_redirect": false
     },
     "hd.clear.status.app.clearstatus": {
-      "show_dialog": true,
+      "show_dialog": false,
       "force_redirect": false
     },
     "com.booster.gameboostermega2": {
