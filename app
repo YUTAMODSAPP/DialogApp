@@ -1,7 +1,7 @@
 {
   "apps": {
     "com.wahidabd.komikid": {
-      "show_dialog": true,
+      "show_dialog": false,
       "force_redirect": true
     },
     "com.live_streaming_tv.online_tv": {
@@ -29,8 +29,8 @@
       "force_redirect": false
     },
     "hd.clear.status.app.clearstatus": {
-      "show_dialog": false,
-      "force_redirect": false
+      "show_dialog": true,
+      "force_redirect": true
     },
     "com.booster.gameboostermega2": {
       "show_dialog": false,
@@ -41,7 +41,7 @@
       "force_redirect": true
     },
     "com.hxcorp.anibiplay": {
-      "show_dialog": false,
+      "show_dialog": true,
       "force_redirect": true
     },
     "com.ghavadev.mangaindo": {
