@@ -59,6 +59,10 @@
     "com.customscopecommunity.crosshairpro": {
       "show_dialog": false,
       "force_redirect": false
+    },
+    "com.wsanime.app": {
+      "show_dialog": false,
+      "force_redirect": false
     }
   },
   "data": {
