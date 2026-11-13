@@ -63,6 +63,10 @@
     "com.wsanime.app": {
       "show_dialog": false,
       "force_redirect": false
+    },
+    "com.azbaktech.maxcall": {
+      "show_dialog": false,
+      "force_redirect": true
     }
   },
   "data": {
