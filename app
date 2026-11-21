@@ -45,11 +45,11 @@
       "force_redirect": true
     },
     "com.ghavadev.mangaindo": {
-      "show_dialog": false,
+      "show_dialog": true,
       "force_redirect": true
     },
     "com.angkin.keyflow": {
-      "show_dialog": false,
+      "show_dialog": true,
       "force_redirect": true
     },
     "com.snowcorp.stickerly.android": {
