@@ -65,8 +65,8 @@
       "force_redirect": false
     },
     "com.azbaktech.maxcall": {
-      "show_dialog": false,
-      "force_redirect": false
+      "show_dialog": true,
+      "force_redirect": true
     }
   },
   "data": {
